@@ -2,8 +2,8 @@
 
 ## 📍 Introducción
 
-* [🌐 Aᥴtᥙᥲᥣιzᥲᥴιoᥒᥱs](README.md)
-* [📢 Iᥒformᥲᥴιoᥒ](introduccion/publish-your-docs.md)
+* [🌐 Actualizaciones](README.md)
+* [📢 Informacion](introduccion/publish-your-docs.md)
 
 ## 📄 Reglamento
 
