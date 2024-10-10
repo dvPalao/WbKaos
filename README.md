@@ -26,9 +26,13 @@ Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO.&#x2
 
 
 
-> Nota:&#x20;
->
-> La información de la ubicación solo de divulgará IC
+
+{% endhint %}
+
+{% hint style="danger" %}
+Nota:
+
+&#x20;La información de la ubicación solo de divulgará IC
 {% endhint %}
 
 ***
