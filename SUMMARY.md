@@ -2,8 +2,8 @@
 
 ## 📍 Introducción
 
-* [🌐 Actualizaciones](README.md)
-* [📢 Informacion](introduccion/publish-your-docs.md)
+* [📢 Informacion](README.md)
+* [🌐 Actualizaciones](<README (1).md>)
 
 ## 📄 Reglamento
 
