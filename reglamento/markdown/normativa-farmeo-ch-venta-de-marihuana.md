@@ -18,14 +18,14 @@ layout:
     visible: false
 ---
 
-# Normαtıvα fαrmeo ч ventα de mαrıhuαnα
+# Normativa Zonas farmeos y ventas
 
-## 📖 FARMEO Y VENTA DE MARIHUANA
+## 📖 ZONAS DE FARMEOS Y VENTAS
 
 El farmeo y venta de Marihuana se considera una zona roja, donde se podrá farmear y vender un nuevo tipo de estupefaciente.
 
 1. El mínimo de participantes es 4 y el máximo es 12.
-2. No existe valorar vida en esta zona.
+2. No existe valorar vida en esta zona (Si decides valorar vida no puedes decistir de esta acción).
 3. No se requiere de E.M.S y/o POLICÍA para acudir al lugar.
 4. El bando ganador podrá llevar a sus compañeros al hospital para ser reanimados.
 5. No se permite campear el lugar de afuera hacia dentro, en caso de solo querer pasar por la autopista, el vehículo no podrá frenar o desacelerar en ningún momento.

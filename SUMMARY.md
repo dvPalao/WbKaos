@@ -15,7 +15,7 @@
   * [Normas Específicas](reglamento/normativa-general/norm-s-esr-ifi-s.md)
 * [🥷 Normativa Delictiva](reglamento/markdown/README.md)
   * [Normativa Organizaciones Criminales](reglamento/markdown/images-and-media.md)
-  * [Normativa farmeo y venta de marihuana](reglamento/markdown/normativa-farmeo-ch-venta-de-marihuana.md)
+  * [Normativa Zonas farmeos y ventas](reglamento/markdown/normativa-farmeo-ch-venta-de-marihuana.md)
 * [👷 Normativa Facciones legales](reglamento/openapi/README.md)
   * [Normativa De Policia](reglamento/openapi/norm-tiv-d-po-i-i.md)
   * [Normativa de EMS](reglamento/openapi/norm-tiv-d-ems.md)
