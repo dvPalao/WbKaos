@@ -19,3 +19,7 @@ layout:
 
 # 🚛 Basurero
 
+{% hint style="info" %}
+Estamos trabajando en ello..
+{% endhint %}
+

@@ -20,18 +20,27 @@ layout:
 
 # Normᥲtιvᥲ dᥱ EMS
 
-## 👨‍⚕️ Proceso selectivo
+
+
+### 👨‍⚕️  Proceso selectivo
 
 ```
 Requisitos para postular
 ```
 
-* Ser mayor de 16 años de edad (OOC) y mayor de 18 (IC).
-* Tener VISA.
+* Tener VISA vigente
+* Tener todas las ganas de aprender (no se exige mucha experiencia)
+* Tener capacidad de trabajar en equipo
+* Tener Nombre y Apellido íntegro
+* No tener antecedentes penales o procesos judiciales abiertos ic
+* Tener disponibilidad de 12 horas semanales
 
-## 📖 Normativa para Cuidadanos Referente A Ems
+```
+ ¿Cómo postular?
+```
 
-* Está prohibido golpear, matar o agredir a un EMS.
-* Está prohibido realizar roles agresivos Frente a un EMS.
-* Está prohibido que envien "/ems ayuda" en roles creativos/pactados donde no requieran un EMS.
-*
+_**Solo acércate al Hospital y deja tu CV a Sánchez o ÚNETE AL DISCORD Y DEJA TU**_ [_**POSTULACIÓN**_](https://discord.com/channels/1086003079318622251/1178888538012520468)
+
+{% hint style="info" %}
+Estamos trabajando en ello..
+{% endhint %}

@@ -20,3 +20,7 @@ layout:
 
 # Como ingresar
 
+{% hint style="info" %}
+Estamos trabajando en ello..
+{% endhint %}
+

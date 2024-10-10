@@ -20,6 +20,15 @@ layout:
 
 # Discord/KaosLife
 
-VERIFICAR CELULAR
+```
+VERIFICAR DISCORD
+```
 
+```
 SOLICITAR WHITELIST
+```
+
+{% hint style="info" %}
+Estamos trabajando en ello..
+{% endhint %}
+

@@ -20,3 +20,7 @@ layout:
 
 # Nuevo en Roleplay?
 
+{% hint style="info" %}
+Estamos trabajando en ello..
+{% endhint %}
+

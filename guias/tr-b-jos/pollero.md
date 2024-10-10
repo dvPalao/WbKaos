@@ -19,3 +19,6 @@ layout:
 
 # 🐔 Pollero
 
+{% hint style="info" %}
+Estamos trabajando en ello...
+{% endhint %}
