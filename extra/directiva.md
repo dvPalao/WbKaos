@@ -17,9 +17,9 @@ layout:
     visible: false
 ---
 
-# 🔰 Dırectıvα
+# 🔰 Directiva
 
-🛡️ STAFF
+## 🛡️ STAFF
 
 Como miembros del staff, tenemos el privilegio y la responsabilidad de mantener un entorno de juego seguro, justo y entretenido para todos nuestros jugadores.&#x20;
 
