@@ -8,17 +8,17 @@
 ## 📄 Reglamento
 
 * [📖 Normativa General](reglamento/normativa-general/README.md)
-  * [Coᥒᥴᥱρto Gᥱᥒᥱrᥲᥣᥱs](reglamento/normativa-general/editor.md)
-  * [Zoᥒᥲs Rojᥲs](reglamento/normativa-general/zo-s-roj-s.md)
-  * [Zoᥒᥲs Sᥱgᥙras](reglamento/normativa-general/zo-s-s-g-ras.md)
-  * [Roᥣᥱs Agrᥱsιvos](reglamento/normativa-general/ro-s-agr-sivos.md)
-  * [Normᥲs Esρᥱᥴίfιᥴᥲs](reglamento/normativa-general/norm-s-esr-ifi-s.md)
+  * [Concepto Generales](reglamento/normativa-general/editor.md)
+  * [Zonas Rojas](reglamento/normativa-general/zo-s-roj-s.md)
+  * [Zonas Seguras](reglamento/normativa-general/zo-s-s-g-ras.md)
+  * [Roles Agresivos](reglamento/normativa-general/ro-s-agr-sivos.md)
+  * [Normas Específicas](reglamento/normativa-general/norm-s-esr-ifi-s.md)
 * [🥷 Normativa Delictiva](reglamento/markdown/README.md)
-  * [Normαtıvα Orgαnızαcıones crımınαles](reglamento/markdown/images-and-media.md)
-  * [Normαtıvα fαrmeo ч ventα de mαrıhuαnα](reglamento/markdown/normativa-farmeo-ch-venta-de-marihuana.md)
+  * [Normativa Organizaciones Criminales](reglamento/markdown/images-and-media.md)
+  * [Normativa farmeo y venta de marihuana](reglamento/markdown/normativa-farmeo-ch-venta-de-marihuana.md)
 * [👷 Normativa Facciones legales](reglamento/openapi/README.md)
-  * [Normᥲtιvᥲ dᥱ Poᥣιᥴιᥲ](reglamento/openapi/norm-tiv-d-po-i-i.md)
-  * [Normᥲtιvᥲ dᥱ EMS](reglamento/openapi/norm-tiv-d-ems.md)
+  * [Normativa De Policia](reglamento/openapi/norm-tiv-d-po-i-i.md)
+  * [Normativa de EMS](reglamento/openapi/norm-tiv-d-ems.md)
 * [🚷 Sanciones](reglamento/sanciones.md)
 
 ## ⛏️ Guias
@@ -30,13 +30,13 @@
   * [👷 Camionero](guias/tr-b-jos/camionero.md)
   * [🚛 Basurero](guias/tr-b-jos/basurero.md)
 * [⌨️ Comᥲᥒdos y Tᥱᥴᥣᥲs](guias/com-dos-y-t-s.md)
-* [👋 Aყᥙdᥲ Gᥱᥒᥱrᥲᥣ](guias/aq-d-g-r/README.md)
+* [👋 Ayuda General](guias/aq-d-g-r/README.md)
   * [Nuevo en Roleplay?](guias/aq-d-g-r/nuevo-en-roleplay.md)
   * [Discord/KaosLife](guias/aq-d-g-r/discord-kaoslife.md)
   * [Como ingresar](guias/aq-d-g-r/como-ingresar.md)
 
 ## 📫 Extra
 
-* [🔰 Dırectıvα](extra/directiva.md)
-* [🛒 Tιᥱᥒdᥲ](extra/ti-d/README.md)
+* [🔰 Directiva](extra/directiva.md)
+* [🛒 Tienda](extra/ti-d/README.md)
   * [Terminos y Condiciones](extra/ti-d/terminos-y-condiciones.md)
