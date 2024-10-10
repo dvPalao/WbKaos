@@ -22,7 +22,13 @@ layout:
 {% hint style="warning" %}
 ## Actualización 1.3.2.1
 
-Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO. Nota: La información de la ubicación solo de divulgará IC
+Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO.&#x20;
+
+
+
+> Nota:&#x20;
+>
+> La información de la ubicación solo de divulgará IC
 {% endhint %}
 
 ***
