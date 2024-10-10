@@ -17,12 +17,20 @@ layout:
     visible: false
 ---
 
-# 🌐 Aᥴtᥙᥲᥣιzᥲᥴιoᥒᥱs
+# 🌐 Actualizaciones
 
 {% hint style="warning" %}
+## Actualización 1.3.2.1
+
+Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO. Nota: La información de la ubicación solo de divulgará IC
+{% endhint %}
+
+***
+
+{% hint style="success" %}
 ## Actualización 1.3.2
 
-![:theconnectionisexcellent:](https://cdn.discordapp.com/emojis/1055644893017559050.webp?size=44\&quality=lossless) Cambios en el sector Laboral
+### ![:theconnectionisexcellent:](https://cdn.discordapp.com/emojis/1055644893017559050.webp?size=44\&quality=lossless) Cambios en el sector Laboral
 
 * Se añadió un nuevo trabajo de minería por niveles, mientras más mines más posibilidades de ganar más. El trabajo esta hecho para ganar más que el resto por que esta recién ingresando a la ciudad.
 * La Pesca sus ganancias por venta fue reducido de 24 a 17 por pescado y se estima que seguirá a la baja
