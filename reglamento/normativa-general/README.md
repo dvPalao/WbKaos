@@ -178,6 +178,7 @@ GRABACIÓN
 * Si quieres hacer un rol agresivo en el servidor, tienes la obligación de grabar todo el rol.
 * En la grabación debe ser desde el envío del entorno hasta la finalización del rol.
 * Debes guardar tu grabación por 48 horas en caso haya un reporte en tu contra. (OJO: TODA GRABACIÓN DEBE TENER TODO EL SONIDO TANTO DEL JUEGO Y DE MICRÓFONO )
+* la grabacion debe de contar con sonido (MICROFONO Y DE TODO TU SISTEMA OPERATIVO). <mark style="color:red;">**Caso contrario la perspectiva no será valida**</mark>.
 
 > NOTA:&#x20;
 >
