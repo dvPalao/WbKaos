@@ -22,7 +22,7 @@ layout:
 
 ## 🚶 Como ingresar?
 
-<pre><code><strong>Unirse al Discord de KaosLife
+<pre><code><strong>- Unirse al Discord de KaosLife
 </strong></code></pre>
 
 Unirse al Discord: Ve al sitio web [discord.gg/kaoslife](https://discord.com/invite/kaoslife) y únete al servidor de Discord de KaosLife.&#x20;
@@ -30,7 +30,7 @@ Unirse al Discord: Ve al sitio web [discord.gg/kaoslife](https://discord.com/inv
 Verificar tu número: Asegúrate de verificar tu número de teléfono en el Discord para que puedas ingresar al servidor.
 
 ```
-Conectarse al servidor "KaosLife"
+- Conectarse al servidor "KaosLife"
 ```
 
 Conectarse desde la búsqueda de servidores: Abre FiveM y haz clic en la opción "Jugar".&#x20;
@@ -40,7 +40,7 @@ En la barra de búsqueda, escribe "KaosLife". Luego, selecciona el servidor "Kao
 Escribe el comando "connect ej4bp3" y presiona Enter para unirte al servidor.
 
 ```
-Jugar en el servidor
+- Jugar en el servidor
 ```
 
 Cumplir con las reglas: Asegúrate de leer y seguir las reglas del servidor. Disfrutar: Una vez conectado, puedes empezar a jugar y disfrutar de la experiencia del servidor.
