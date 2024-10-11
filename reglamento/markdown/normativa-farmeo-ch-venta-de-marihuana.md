@@ -22,7 +22,7 @@ layout:
 
 ## 📖 ZONAS DE FARMEOS Y VENTAS
 
-Las zonas de farmeo y venta se considera una zona roja, donde se podrá farmear y vender un nuevo tipo de estupefaciente.
+Las zonas de farmeo, zonas de compra y venta de armas , proceso , etc se consideran zonas rojas.
 
 1. El mínimo de participantes es 4 y el máximo es 12.
 2. No existe valorar vida en esta zona (Si decides valorar vida no puedes decistir de esta acción).
