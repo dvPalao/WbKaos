@@ -32,8 +32,7 @@
 * [⌨️ Comᥲᥒdos y Tᥱᥴᥣᥲs](guias/com-dos-y-t-s.md)
 * [👋 Ayuda General](guias/aq-d-g-r/README.md)
   * [Nuevo en Roleplay?](guias/aq-d-g-r/nuevo-en-roleplay.md)
-  * [Discord/KaosLife](guias/aq-d-g-r/discord-kaoslife.md)
-  * [Como ingresar](guias/aq-d-g-r/como-ingresar.md)
+  * [Como ingresar?](guias/aq-d-g-r/como-ingresar.md)
 
 ## 📫 Extra
 
