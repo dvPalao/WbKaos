@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Normᥲtιvᥲ dᥱ Poᥣιᥴιᥲ
+# Normativa De Policia
 
 ### 👮  Proceso selectivo
 
@@ -288,8 +288,8 @@ Para ello, tendremos que trasladarnos a la ubicación 4000 (federal) y ya estemo
 ### ♟️ NEGOCIACIÓN CON REHENES:
 
 * Tienda/Licorería : Huida limpia (contando en misissipis), Salida limpia, Pinchos, Barreras, Motos, Número de vehículos policiales.
-* Fleeca: Humo, Drone, Refuerzos, Tirador, Agentes, Huida limpia, Saluda limpia, Pinchos, Barreras, Motos
+* Fleeca: Humo, Drone, Refuerzos, Tirador, Agentes, Huida limpia, Salida limpia, Pinchos, Barreras, Motos
 * Joyería: Humos, Cascos, Drones, Helicóptero, Tirador, Agentes, Huida limpia, Salida limpia, Pincho, Barreras, Motos
 * Yate: Humos, Cascos, Drone, Helicóptero, Tirador, Agentes, Huida limpia, Salida limpia, Motos acuáticas.
-* BC: Humos, Granada aturdimiento, Cascos, Drone, Helicóptero, Tirador, Agentes, Huida limpia, Saluda limpia, Pinchos, Barreras, Motos.
-* Humane: Humos, Granada aturdimiento, Cascos, Drone, Helicóptero, Tirador, Agentes, Huida limpia, Saluda limpia, Pinchos, Barreras, Motos.
+* BC: Humos, Granada aturdimiento, Cascos, Drone, Helicóptero, Tirador, Agentes, Huida limpia, Salida limpia, Pinchos, Barreras, Motos.
+* Humane: Humos, Granada aturdimiento, Cascos, Drone, Helicóptero, Tirador, Agentes, Huida limpia, Salida limpia, Pinchos, Barreras, Motos.

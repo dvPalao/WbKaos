@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Normᥲs Esρᥱᥴίfιᥴᥲs
+# Normas Específicas
 
 ## 📖NORMAS ESPECIFÍCAS
 
@@ -65,7 +65,7 @@ USO DE VEHÍCULOS
 * No se pueden robar robar ni utilizar vehículos de FACCIONES LEGALES E ILEGALES se reconoce como una falta grave.
 * Si a tu vehículo le hace falta una rueda o tiene alguna puerta rota deberás conducir despacio hasta llevarlo al taller o llamar a un mecánico a tu ubicación.
 * Si tu vehículo tiene las dos ruedas pinchadas o le esté saliendo humo del motor, obligatoriamente deberás detener tu vehículo y esperar a un mecánico o llamar a la grúa.
-* En caso de tener un choque contra un muro u otro vehículo recuerda que debes rolear tu choque con “/se me soba la cabeza” y esperar 3 segundos para seguir con tu camino en caso tu vehículo no haya sufrido daños graves.
+* En caso de tener un choque contra un muro u otro vehículo recuerda que debes rolear tu choque con “/me se soba la cabeza” y esperar 3 segundos para seguir con tu camino en caso tu vehículo no haya sufrido daños graves.
 
 ```
 USO DE VEHÍCULOS AÉREOS
