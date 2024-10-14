@@ -47,6 +47,10 @@ Ser parte del equipo de staff no es solo un título; es un compromiso con la com
 
 <figure><img src="../.gitbook/assets/Identificación Id card, credencial o gafete laboral o corporativo para oficina Formal Azul (1).png" alt=""><figcaption></figcaption></figure>
 
+ 
+
+<figure><img src="../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 <details>
@@ -89,4 +93,16 @@ Ser parte del equipo de staff no es solo un título; es un compromiso con la com
 
 </details>
 
-<figure><img src="../.gitbook/assets/Identificación Id card, credencial o gafete laboral o corporativo para oficina Formal Azul (2).png" alt="" width="295"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/2 (2).png" alt="" width="295"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/1 (3).png" alt="" width="295"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/7.png" alt="" width="295"><figcaption></figcaption></figure>
+
+</div>
