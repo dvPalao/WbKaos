@@ -103,6 +103,6 @@ Ser parte del equipo de staff no es solo un título; es un compromiso con la com
 
  
 
-<figure><img src="../.gitbook/assets/7.png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Identificación Id card, credencial o gafete laboral o corporativo para oficina Formal Azul (2).png" alt="" width="295"><figcaption></figcaption></figure>
 
 </div>
