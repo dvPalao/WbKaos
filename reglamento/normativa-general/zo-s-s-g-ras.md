@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Zoᥒᥲs Sᥱgᥙras
+# Zonas Seguras
 
 ## 📖ZONAS SEGURAS
 
@@ -46,6 +46,16 @@ QUÉ SON LAS ZONAS SEGURAS?
 > \- Si hay un muerto y la EMS lo reanima, no puedes abrirle un rol agresivo hasta que no se haya alejado unos 50 m del punto de donde le han revivido o hayan pasado 5 minutos.
 >
 > \- Tanto para BC, Fleeca y Gasolinera son seguros SIEMPRE Y CUANDO SE USEN.
+>
+> \- Cualquier área marcada en el mapa como zona segura se considera segura en un radio de 2 cuadras alrededor.
+
+> IMPORTANTE
+>
+> \- Todos los puntos de trabajos/facciones son zonas seguras de 2 cuadras a la redonda.
+>
+> \- Los flecca son zonas seguras por dentro, se considera seguro por el RDE.
+>
+> \- Las tiendas, ya sean de armas, comida o ropa, solo son seguras dentro de sus instalaciones. Si se inicia un robo, en la perspectiva del usuario debe mostrar cómo llegó a ese lugar, bajo qué motivo y como fue el desarrollo del rol de principio a final.
 
 \
 <mark style="color:red;">**EL CAMPEO EN ZONAS SEGURAS O ZONAS ROJAS/CALIENTES ESTÁ TOTALMENTE PROHIBIDO ES SANCIÓN**</mark>

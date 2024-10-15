@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Normαtıvα Orgαnızαcıones crımınαles
+# Normativa Organizaciones Criminales
 
 ## 📖 NORMATIVA ORGANIZACIONES CRIMINALES&#x20;
 
@@ -81,7 +81,7 @@ Las facciones ilegales tendrán permitido el uso de armamento G1,G2 y G3 sin nec
 * Después del GG tendrán 5 min para catear.
 * La única zona permitida en ciudad para hacer un enfrentamiento es en Barrios Bajos (ZONA INFERIOR MARCADA EN EL MAPA)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > <mark style="color:red;">EN UN ENFRENTAMIENTO LA CANTIDAD MÁXIMA POR ORGANIZACIÓN ES DE 6.</mark>
 

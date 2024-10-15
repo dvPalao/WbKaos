@@ -25,20 +25,6 @@ layout:
 
 Actualmente la ciudad está dividida en 3 zonas, tanto norte, ciudad y barrios bajos.
 
-#### En Norte
-
-La cantidad de miembros mínima para efectuar un robo es de 5 y máxima de 12.
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-#### ZONAS CALIENTES
-
-Para ir a norte tanto punto de zonas de farmeo, zonas de compra de armas , proceso , etc. El mínimo es de 5 y máximo 12 <mark style="color:red;">ESTO APLICA TAMBIÉN PARA CUARTEL DE LOCOS.</mark>
-
-> IMPORTANTE:
->
-> _EN EL CASO DE QUE NO ESTÉN LOS SUFICIENTES EMS DISPONIBLES PARA CATEAR A UN CIVIL <mark style="color:red;">ESTÁ TOTALMENTE PROHIBIDO</mark> CARGARLOS Y LLEVARLOS A UNA ZONA ROJA PARA PODER CATEARLO._
-
 #### En Ciudad y Barrios bajos
 
 La cantidad de miembros mínima para efectuar un robo es de mínimo de 2 y máximo de 4.
@@ -51,6 +37,24 @@ Será obligatorio enviar un entorno con el comando (/entorno) antes de realizar 
 
 > Ejemplo:\
 > _/entorno Unos sujetos armados con vestimenta morada militarizada, con tatuajes y enmascarados, acaban de asaltar a un civil. El coche en el que se movilizan es un Kuruma morado. ¡Ayuda, por favor!_
+
+> IMPORTANTE:
+>
+> El tiempo que debes esperar para volver a robar al mismo civil es de 15 minutos (Para así también evitar el RK). Sin embargo, después de 5 minutos, puedes iniciar un rol agresivo con una persona diferente.
+
+#### En Norte
+
+La cantidad de miembros mínima para efectuar un robo es de 5 y máxima de 12.
+
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### 🀄 ZONAS CALIENTES
+
+Para ir a norte tanto punto de zonas de farmeo, zonas de compra de armas , proceso , etc. El mínimo es de 5 y máximo 12 <mark style="color:red;">ESTO APLICA TAMBIÉN PARA CUARTEL DE LOCOS.</mark>
+
+> IMPORTANTE:
+>
+> _EN EL CASO DE QUE NO ESTÉN LOS SUFICIENTES EMS DISPONIBLES PARA CATEAR A UN CIVIL <mark style="color:red;">ESTÁ TOTALMENTE PROHIBIDO</mark> CARGARLOS Y LLEVARLOS A UNA ZONA ROJA PARA PODER CATEARLO._
 
 #### MOCHILAS
 
@@ -70,7 +74,7 @@ El uso de mochilas ES OBLIGATORIO al momento de querer llevar balas, chalecos (1
 
 </div>
 
-#### ZONA DE BARRIO
+### 🏴‍☠️ ZONA DE BARRIO
 
 Por interpretación esta zona se considera como zona de dominación, más no como zona roja.
 
@@ -128,15 +132,21 @@ El rol de estafa se considera un rol de robo, por lo que se limitará su partici
 
 Para llevar a cabo un rol de robo, deberá haber al menos (2) EMS y (3) oficiales disponibles como mínimo. El rol podrá ser realizado por un máximo de 4 miembros si son civiles, y por hasta 4 miembros si son organizaciones delictivas. (siempre se requerirá de un rol previo)
 
+Para cualquier inicio de rol agresivo, el tiempo de "pérdida del objetivo" es de 10 minutos. Después de ese tiempo, no podrás iniciar un nuevo rol agresivo con el mismo usuario a menos que hayan pasado los 15 minutos establecidos en las reglas. Sin embargo, después de 5 minutos, puedes iniciar un rol agresivo con una persona diferente.
+
+> IMPORTANTE:
+>
+> \-Si un usuario entra a una zona segura antes de que hayan pasado los 10 minutos del inicio del rol agresivo, se puede continuar el rol sacándolo de la zona segura utilizando el TH (bajo su propia responsabilidad del entorno del rol).
+>
+> _Si no deseas continuar con el rol, puedes proceder a presentar un reporte mencionando la evasión de rol por haber entrado a una zona segura._
+
 > OBSERVACIÓN:&#x20;
 >
-> Los miembros de facciones legales que se encuentren en servicio quedarán exentos de este rol.
-
-> IMPORTANTE:&#x20;
+> \-Los miembros de facciones legales que se encuentren en servicio quedarán exentos de este rol.
 >
-> No se podrá robar identificaciones, comida, objetos UWU, ni bebida. En caso de que el usuario víctima del robo colabore en todo momento, no podrá ser abatido bajo ninguna circunstancia.
+> \-No se podrá robar identificaciones, comida, objetos UWU, ni bebida. En caso de que el usuario víctima del robo colabore en todo momento, no podrá ser abatido bajo ninguna circunstancia.
 >
-> Solo se podrá catear la Combat Pistol a la policía durante un SECUESTRO, el riesgo de esto sería el inicio de una investigación por parte de la policía con la finalidad de un CK.
+> \-Solo se podrá catear la Combat Pistol a la policía durante un SECUESTRO, el riesgo de esto sería el inicio de una investigación por parte de la policía con la finalidad de un CK.
 
 ### 🧎  ROBOS CON REHENES
 
@@ -155,8 +165,9 @@ Al negociar huida limpia no se podrá abrir fuego a las llantas de los vehículo
 
 > OBSERVACIÓN:
 >
-> * Es de carácter obligatorio contar con la cantidad de rehenes requeridos para cada robo (no se podrá contar con más o menos rehenes de lo estipulado).
-> * Una vez iniciado el atraco no existe el valorar vida de ambas partes(no se puede reducir al jugador).
+> \-Es de carácter obligatorio contar con la cantidad de rehenes requeridos para cada robo (no se podrá contar con más o menos rehenes de lo estipulado).
+>
+> \-Una vez iniciado el atraco no existe el valorar vida de ambas partes(no se puede reducir al jugador).
 
 > IMPORTANTE:&#x20;
 >

@@ -20,6 +20,27 @@ layout:
 # 🌐 Actualizaciones
 
 {% hint style="warning" %}
+## ACTUALIZACIÓN 1.3.3.2
+
+&#x20;CAMBIOS EN LA ECONOMIA .
+
+* Gracias a las embarcaciones chinas que llegaron a territorio de Kaos City a robarse su pescado, el **precio del pescado** se desplomo de **17 a 11**.
+* Por otro lado, el **precio del pollo** empaquetado subió gracias a las importaciones hacia la INDIA, **de 22 a 32** por pollo empaquetado.
+
+![:weed:](https://cdn.discordapp.com/emojis/856192760440684565.webp?size=40\&quality=lossless)  CAMBIOS EN LA ECONOMIA DELICTIVA.
+
+* Gracias a que el gobierno legalizo la marihuana el precio de la marihuana bajo de **450 por cada 20 hojas de cannabis a 200**.
+* Mientras tanto los avances científicos han dado fruto por lo cual ahora en el empaquetado de metanfetamina en vez de dar **3 bolsas empaquetadas, ahora da 10 bolsas de meta** y su precio original por cada 20 bolsas de metas paso de **dar 850 a 4500 de dinero oscuro**.\
+  ![](.gitbook/assets/image.png)
+{% endhint %}
+
+{% hint style="danger" %}
+_PROXIMAMENTE SE VIENE UNA ACTUALIZACION EN LOS NEGOCIOS DE LA CIUDAD_
+{% endhint %}
+
+***
+
+{% hint style="success" %}
 ## Actualización 1.3.2.1
 
 Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO.&#x20;

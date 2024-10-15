@@ -18,7 +18,7 @@ layout:
     visible: false
 ---
 
-# Roᥣᥱs Agrᥱsιvos
+# Roles Agresivos
 
 ## 📖ROLES AGRESIVOS
 
@@ -134,7 +134,13 @@ ROL DE CK
 
 En esta normativa solo se indicará como realizar un CK a un civil, para realizar CK entre FACCIONES se deberá de revisar la normativa correspondiente a cada una.
 
-***
+### 🧑‍🤝‍🧑 SLOT DE PJ
+
+Si obtienes un segundo slot y deseas aplicar a diferentes organizaciones, solo podrás hacerlo en facciones específicas.
+
+> Si estás en una organización delictiva (primer slot), solo puedes aplicar para las facciones de EMS o mecánico en tu segundo slot.&#x20;
+>
+> <mark style="color:red;">**No puedes unirte a la facción policial ni a ninguna organización ilegal.**</mark>
 
 ### 🚨 **REGLAS DE CATEO**
 
@@ -204,9 +210,7 @@ FACCIÓN ILEGAL A CIVIL
 * Se deberá de seguir los mismos pasos que el CK de Civil a Civil.
 * El ser abatido en una casa de Facción Ilegal por primera vez conlleva un PK, y el ser abatido por segunda vez conlleva un CK
 
-```
-SALIDA DE FACCIÓN
-```
+### 🚪 SALIDA DE FACCIÓN
 
 * Si deseas salir de una facción WHITELIST, tu jefe tendrá la potestad de decidir si sales con un PKT o un CK
 
