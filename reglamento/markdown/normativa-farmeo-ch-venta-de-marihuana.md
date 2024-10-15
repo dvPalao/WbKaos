@@ -33,10 +33,14 @@ Las zonas de farmeo, zonas de compra y venta de armas , proceso , etc se conside
 7. La policía y EMS no podrán acudir al lugar bajo ninguna circunstancia.
 8. No se permiten autos deportivos/donación (a excepción del vehículo de donación DRAGOUR)
 9. Solo podrán calear refuerzos hasta ser un máximo de 12.
-10. Deberás esperar un mínimo de 30 minutos para volver al lugar.
+10. Deberás esperar al menos 30 minutos para regresar al lugar, siempre y cuando el rol haya finalizado.
 11. No podrás bloquear entradas con tus autos.
 12. No se permite el uso de armas blancas. (cuchillo, bate, machete, etc)
 13. Todo rol iniciado dentro de esta zona podrá continuar fuera de ella.
+
+> IMPORTANTE:
+>
+> En cada enfrentamiento en zona de farmeo o venta el limite de tiempo es de&#x20;
 
 > NOTA: Las reglas se podrán editar siempre y cuando sea necesario para mejorar la experiencia de juego.
 
