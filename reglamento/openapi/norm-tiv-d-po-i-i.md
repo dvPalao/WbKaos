@@ -116,7 +116,7 @@ Los civiles podrán catear a oficiales cosas Legales e Ilegales que no formen pa
 
 **Armamento policial**
 
-Pistol MK2`, Chaleco POLICIAL, Assault smg, Carbine rifle, Shotgun, Taser, Porra y Linterna.`
+`Pistol MK2, Chaleco POLICIAL, Assault smg, Carbine rifle, Shotgun, Taser, Porra y Linterna.`
 
 > Nota:&#x20;
 >
