@@ -20,6 +20,62 @@ layout:
 # 🌐 Actualizaciones
 
 {% hint style="warning" %}
+## ACTUALIZACIÓN 1.3.5
+
+![:clothing:](https://cdn.discordapp.com/emojis/793510139725479976.webp?size=40\&quality=lossless) **SE AGREGO UN NUEVO PAQUETE DE ROPAS**
+
+* Se agrego un nuevo paquete de Ropa con mas de 15000 archivos, por lo cual tendrán que volver hacer sus outfits desde 0.
+
+![:PlayStore:](https://cdn.discordapp.com/emojis/923143322808234015.webp?size=40\&quality=lossless) **NUEVO SISTEMA DE REPRODUCTOR DE MUSICA**
+
+* Dejamos de lado nuestro clásico reproductor de musica para pasarnos a uno más moderno con una interfaz muy amigable, entrando a un vehículo presiona F11 y disfruta\*\*.
+
+![:zeroblind:](https://cdn.discordapp.com/emojis/1109504185814237255.webp?size=40\&quality=lossless) NUEVO ITEM
+
+* Para secuestrar personas se ha incorporado la bolsa en la cabeza, esta será vendida próximamente en la **BLACK MARKET** .
+
+![](<.gitbook/assets/image (35).png>)
+
+```
+17/10/2024
+```
+{% endhint %}
+
+***
+
+{% hint style="success" %}
+## ACTUALIZACIÓN 1.3.4
+
+&#x20;**SE AGREGARON NUEVOS NEGOCIOS .**
+
+* **El Gym Basic Fit ubicado en 7192** se abre para todos los ciudadanos de Kaoslife, la membresía mensual a precios comodos. Yendo al gimnasio a entrenar puedes subir tus stats que te ayudaran a durar más tiempo corriendo y correr más rápido, mantener más tiempo el aire bajo el agua, etc. Revisa tus stats con /mystats
+* El **Casino DIAMOND CLUB** se encuentra en sus últimos detalles antes de su gran inauguración que será publicada y anunciada por sus trabajadores.
+
+&#x20;**CAMBIOS EN LA ECONOMIA**
+
+* El precio del pescado aumento de 11$ a 13$ por pescado.
+
+\- **El trabajo de Trailero ubicado en 10136** debido alta demanda de personal pero pocos empleados, pasaron **de ganar 12000$ la hora bien trabajada a 30000$** la hora bien trabajada, esto quiere decir que si trabajas constantemente ida y vuelta sin parar durante una hora podrías alcanzar a ganar esos 30000$ soles.&#x20;
+
+**CAMBIOS DELICTIVO**
+
+* Se permite el uso de DRONES, uso exclusivo solo en el Norte , estos no pueden ser CATEADOS bajo ninguna circunstancia, eso quiere decir que así catees a una persona o un carro y este tenga un drone, debes dejarlo en su inventario , caso contrario te llevarías un strike por catear items de sangre.
+
+Para poder conseguir tu dron saca un ticket en ⁠[┊📨┊ticket-de-donaciones](https://ptb.discord.com/channels/1072276416223268864/1072276419327049761)\
+![](<.gitbook/assets/image (31).png>)![](<.gitbook/assets/image (32).png>)![](<.gitbook/assets/image (34).png>)![](<.gitbook/assets/image (33).png>)
+{% endhint %}
+
+{% hint style="danger" %}
+_ESTAS ACTUALIZACIONES SE APLICARAN PARA EL REINICIO DE HOY A LAS 6:00 AM_
+
+```
+16/10/2024
+```
+{% endhint %}
+
+***
+
+{% hint style="success" %}
 ## ACTUALIZACIÓN 1.3.3.2
 
 &#x20;CAMBIOS EN LA ECONOMIA .
@@ -36,6 +92,10 @@ layout:
 
 {% hint style="danger" %}
 _PROXIMAMENTE SE VIENE UNA ACTUALIZACION EN LOS NEGOCIOS DE LA CIUDAD_
+
+```
+12/10/2024
+```
 {% endhint %}
 
 ***
@@ -54,6 +114,10 @@ Se agregó un punto de mercenario el cual podrás comprar con dinero LIMPIO.&#x2
 Nota:
 
 &#x20;La información de la ubicación solo de divulgará IC
+
+```
+09/10/2024
+```
 {% endhint %}
 
 ***
