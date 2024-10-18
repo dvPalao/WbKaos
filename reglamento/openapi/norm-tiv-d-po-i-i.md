@@ -116,7 +116,7 @@ Los civiles podrán catear a oficiales cosas Legales e Ilegales que no formen pa
 
 **Armamento policial**
 
-PISTOL\_MK2`, Chaleco POLICIAL, Assault smg, Carbine rifle, Shotgun, Taser, Porra y Linterna.`
+Pistol MK2`, Chaleco POLICIAL, Assault smg, Carbine rifle, Shotgun, Taser, Porra y Linterna.`
 
 > Nota:&#x20;
 >
@@ -144,7 +144,7 @@ Potestad de realizar identificaciones sin ningún tipo de restricción, pueden c
 * Porra. /Armamento grado <mark style="color:yellow;">1,2,3</mark> <mark style="background-color:green;">(Ciudad alerta 1)</mark>
 * Taser. /Armamento grado <mark style="color:yellow;">1,2,3</mark> <mark style="background-color:green;">(Ciudad alerta 1)</mark>
 * Cámara de fotos. /Armamento grado <mark style="color:yellow;">1,2,3</mark> <mark style="background-color:green;">(Ciudad alerta 1)</mark>
-* Combat pistol. /Armamento grado <mark style="color:yellow;">1,2,3</mark> <mark style="background-color:green;">(Ciudad alerta 1)</mark>
+* Pistol MK2. /Armamento grado <mark style="color:yellow;">1,2,3</mark> <mark style="background-color:green;">(Ciudad alerta 1)</mark>
 * Assault SMG. / Armamento grado <mark style="color:yellow;">2</mark> <mark style="background-color:orange;">(Ciudad alerta 2)</mark>
 * Carbine rifle. / Armamento grado <mark style="color:yellow;">3</mark> <mark style="background-color:red;">(Ciudad alerta 3)</mark>
 * Shootgun./ Armamento grado <mark style="color:yellow;">3</mark> <mark style="background-color:red;">(Ciudad alerta 3)</mark>
