@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/4_.KAOSLIFE_WALL.png
-coverY: 0
+cover: .gitbook/assets/4_.KAOSLIFE_WALL.png
+coverY: -10.322747893713547
 layout:
   cover:
     visible: true
@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# 📢 Iᥒformᥲᥴιoᥒ
+# 📢 Informacion
 
 ## Bienvenidos a Kaos Life!&#x20;
 

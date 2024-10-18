@@ -153,6 +153,18 @@ Para cualquier inicio de rol agresivo, el tiempo de "pérdida del objetivo" es d
 * Los robos y secuestros que se realicen a Fleeca, Joyería, armería y tienda se van a realizar con NPC o Civiles
 * Los robos y secuestros que se realicen a Fleeca Paleto, Humane  se van a realizar unicamente con civiles.
 
+### 🔫 SECUESTRO A CIVIL
+
+Para llevar a cabo el secuestro de cualquier jugador (civil), se necesitarán un minimo y maximo de 4  integrantes en el grupo de secuestradores. Además, deberá haber al menos (7) Oficiales y (4) EMS disponibles y en servicio.
+
+Los secuestros para robo no durarán más de 30 minutos si el sujeto coopera en todo. Si el secuestrado no coopera se podrá reportar y sancionar con pruebas. (El tiempo límite iniciará cuando el secuestrado esté dentro del vehículo).&#x20;
+
+La policía podrá hacer el anuncio vía “/anon” que existe un grupo tratando de secuestrar y que tengan precauciones. Los miembros delictivos quedan terminantemente prohibidos rolear que tienen GPS, ya sea incorporado, comprado o, de cualquier forma.&#x20;
+
+Para realizar el secuestro de forma exitosa evitar tener sanciones o dejar rol nulo, los miembros deben tener si o si la radio y celular como ítem dentro de su inventario, en caso contrario se tomará como PG y MG el hecho de llamar o comunicarse con sus miembros sin una radio dentro de su inventario.
+
+> En caso las negociaciones resulten no favorables o la policía no valore la vida de su compañero o ciudadano, o no hace caso al llamado, será tomado como una sanción (No valoración de vida) hacia las personas que estuvieron involucradas en la negociación y el secuestrado se llevará un PKT y si pasa por segunda vez un CK.
+
 ### 🤝 PUNTOS A NEGOCIAL
 
 * Salida limpia:
